@@ -1,7 +1,7 @@
 # Work Summary — 27–28 October 2026 (Day 4)
 
 ## 1. Project Information & Assigned Role
-- **Date:** 27–28 October 2026
+- **Date:** 25-26 October 2026
 - **Assigned Role:** Systems Requirements & Configuration Engineer
 - **Platform Designation:** RudraEdge RE-T1 (Spectra) Tactical Autonomous UAS
 - **Project Reference:** `RE-iDEX-PROPOSAL-2026-R1`
@@ -69,4 +69,4 @@
 *   [`build_p07.py`](file:///c:/Users/Admin/OneDrive/Desktop/Day%204/build_p07.py): Automated generator script for `P07`.
 *   [`validate_p07.py`](file:///c:/Users/Admin/OneDrive/Desktop/Day%204/validate_p07.py): Automated validation script for `P07`.
 *   [`validate_p08.py`](file:///c:/Users/Admin/OneDrive/Desktop/Day%204/validate_p08.py): Automated validation script for `P08`.
-*   [`README_27_October_2026.md`](file:///c:/Users/Admin/OneDrive/Desktop/Day%204/README_27_October_2026.md) / [`README.md`](file:///c:/Users/Admin/OneDrive/Desktop/Day%204/README.md): Consolidated Day 4 executive summary.
+*   [`README_25_October_2026.md`](file:///c:/Users/Admin/OneDrive/Desktop/Day%204/README_25_October_2026.md) / [`README.md`](file:///c:/Users/Admin/OneDrive/Desktop/Day%204/README.md): Consolidated Day 4 executive summary.
